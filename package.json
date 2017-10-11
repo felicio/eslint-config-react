@@ -1,0 +1,11 @@
+{
+  "name": "react-eslint-tool",
+  "version": "0.1.0",
+  "description": "Set of ESLint configurations for your toolbox 📦.",
+  "keywords": [
+    "lint",
+    "configuration",
+    "tool",
+    "toolbox"
+  ]
+}
