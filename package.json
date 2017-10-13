@@ -12,6 +12,9 @@
     "toolbox"
   ],
   "repository": "github:felicio/react-lint-utility",
+  "bugs": {
+    "url": "https://github.com/felicio/react-lint-utility/issues/new"
+  },
   "engines": {
     "node": "^8.7.0"
   },
