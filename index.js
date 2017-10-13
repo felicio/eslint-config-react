@@ -2,10 +2,10 @@
 
 module.exports = {
   extends: [
+    '@strv/javascript/coding-styles/recommended',
     '@strv/javascript/environments/react/v15',
     '@strv/javascript/environments/react/optional',
-    '@strv/javascript/coding-styles/recommended',
-    // TODO: Add prettier.
+    'prettier',
   ],
   parser: 'babel-eslint',
   parserOptions: {
