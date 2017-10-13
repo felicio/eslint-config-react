@@ -1,7 +1,7 @@
 {
   "name": "react-lint-utility",
   "version": "0.1.0",
-  "description": "Set of ESLint configurations for your toolbox 📦.",
+  "description": "Set of ESLint configurations for your toolbox 🔧.",
   "main": "index.js",
   "keywords": [
     "react",
@@ -11,14 +11,16 @@
     "tool",
     "toolbox"
   ],
+  "repository": "github:felicio/react-lint-utility",
   "engines": {
-    "node": ">=6"
+    "node": "^8.7.0"
   },
   "dependencies": {
-    "@strv/eslint-config-javascript": "^7.7.0"
+    "@strv/eslint-config-javascript": "^7.7.0",
+    "eslint-config-prettier": "^2.6.0",
+    "babel-eslint": "^8.0.1"
   },
   "peerDependencies": {
-    "eslint": "^4.8.0",
-    "babel-eslint": "^8.0.1"
+    "eslint": "^4.8.0"
   }
 }
