@@ -1,5 +1,5 @@
 {
-  "name": "react-lint-utility",
+  "name": "react-lint-util",
   "version": "0.1.0",
   "description": "Set of ESLint configurations for your toolbox 🔧.",
   "private": true,
@@ -12,9 +12,9 @@
     "tool",
     "toolbox"
   ],
-  "repository": "github:felicio/react-lint-utility",
+  "repository": "github:felicio/react-lint-util",
   "bugs": {
-    "url": "https://github.com/felicio/react-lint-utility/issues/new"
+    "url": "https://github.com/felicio/react-lint-util/issues/new"
   },
   "engines": {
     "node": "^8.7.0"
