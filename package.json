@@ -15,7 +15,7 @@
     "url": "https://github.com/felicio/react-lint-util/issues/new"
   },
   "engines": {
-    "node": "^8.7.0"
+    "node": "^8.6.0"
   },
   "dependencies": {
     "@strv/eslint-config-javascript": "^7.7.0",
