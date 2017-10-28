@@ -6,9 +6,9 @@ module.exports = {
     ecmaVersion: 8,
   },
   extends: [
-    '@strv/javascript/coding-styles/recommended',
-    '@strv/javascript/environments/react/v15',
-    '@strv/javascript/environments/react/optional',
+    '@strv/eslint-config-javascript/coding-styles/recommended',
+    '@strv/eslint-config-javascript/environments/react/v15',
+    '@strv/eslint-config-javascript/environments/react/optional',
   ],
   rules: {
     'react/prefer-stateless-function': 'off',
