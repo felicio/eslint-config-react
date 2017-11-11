@@ -1,7 +1,7 @@
 {
   "name": "@felicio/eslint-config-react",
   "version": "1.0.2",
-  "description": "Set of ESLint configurations for your toolbox 🔧.",
+  "description": "Set of ESLint configurations for your toolbox 🔧",
   "keywords": [
     "react",
     "lint",
