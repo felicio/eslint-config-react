@@ -1,5 +1,5 @@
 # ESLint React Utility
-Set of ESLint configurations for your toolbox 🔧.
+Set of ESLint configurations for your toolbox 🔧
 
 ## Usage
 
